@@ -1,6 +1,4 @@
 
-// hello this is test
-
 var box = function () {
 
 	this.side = 10;

@@ -9,7 +9,7 @@ var Person = [
 
 // создаем класс операций над юнитами
 
-// new star
+// new star help Oleg
 
 
 

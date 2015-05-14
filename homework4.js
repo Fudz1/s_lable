@@ -9,6 +9,8 @@ var Person = [
 
 // создаем класс операций над юнитами
 
+// change
+
 
 
 var User = function(name, last_name, birth_day, gender, home_town){

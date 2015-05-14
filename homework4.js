@@ -11,6 +11,8 @@ var Person = [
 
 // new star help 
 
+// secta
+
 
 
 var User = function(name, last_name, birth_day, gender, home_town){

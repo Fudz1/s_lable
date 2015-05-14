@@ -9,12 +9,6 @@ var Person = [
 
 // создаем класс операций над юнитами
 
-// new star help 
-
-// secta
-
-
-
 var User = function(name, last_name, birth_day, gender, home_town){
 	
 	this.name = name;

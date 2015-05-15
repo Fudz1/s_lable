@@ -53,8 +53,7 @@ var ellipse = function () {
 	
 	this.perimeter = function () {
 		return 4 * ((Math.PI * this.semimajor_axis * this.semiminor_axis + Math.pow((this.semimajor_axis - this.semiminor_axis) ,2)) /  (this.semimajor_axis + this.semiminor_axis));
-	};	
-	
+	};		
 };
 
 var square = function(){
@@ -72,7 +71,6 @@ var square = function(){
 	this.perimeter = function () {
 		return 12 * this.side;
 	};
-
 };
 
 var object = new box();
